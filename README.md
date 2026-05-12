@@ -163,3 +163,11 @@ The voice assistant requires:
 *Built with ❤️ for EchoEats - Voice-Based Food Ordering System
 # Outputs
 1[mainpage.png]<img width="1907" height="1014" alt="main page" src="https://github.com/user-attachments/assets/4c6a9cb9-012c-4561-8ea2-4c3d0e1fd2db" />
+2[menupage.png]<img width="1865" height="1010" alt="menu" src="https://github.com/user-attachments/assets/bdbd61e7-fc38-49d3-b7ec-3db332b5585a" />
+3[cartpage.png]<img width="1864" height="991" alt="cart" src="https://github.com/user-attachments/assets/dca8837d-6f5e-431d-b125-56dcd4f25327" />
+4[orderpage.png]<img width="1870" height="969" alt="order page" src="https://github.com/user-attachments/assets/2e830fd8-ce97-4791-8d9b-351000aeda58" />
+5[aboutpage.png]<img width="1872" height="1012" alt="about" src="https://github.com/user-attachments/assets/39f9b2ef-a7c9-40c5-a5b7-2affdd870adc" />
+
+
+
+
